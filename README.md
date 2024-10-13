@@ -98,6 +98,8 @@ $$11.45x10^{6} = 1.53x10^{-7} (\frac{4.26 + 8.72x10^{-4}A_{1}}{6.25x10^{-3}}) - 
 $$11.45x10^{6} = 1.04x10^{6} + 213.4A_{1} - 27.36x10^{3} - 2.51A_{1}$$
 $$A_{1} = \frac{10.43x10^{6}}{210.89}$$
 
+Después de despejar las variables, se procede a su respectiva sustitución, lo que nos lleva al siguiente resultado:
+
 $$A_{0} = 172.87x10^{3}$$
 $$A_{1} = 49.4x10^{4}$$
 $$A_{2} = 1$$
