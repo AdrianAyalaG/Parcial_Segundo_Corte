@@ -36,5 +36,12 @@ $$z^{5} + {\color{Red} 4z^{4}} + {\color{Blue}11.45z^{3}} + {\color{Red} 300z^{4
 $$z^{5} + {\color{Red}z^{4}(4 + 300)} + {\color{Blue}z^3(11.45 + 1.2x10^{3} + 3x10^{4})} + {\color{Green}z^{2}(3.4x10^{3} + 12x10^{4} + 10^{6})} + {\color{Orange} z(343.5x10^{3} + 4x10^{6})} + {\color{Magenta}11.45x10^{6}}$$
 $$z^{5} + 304z^{4} + 31.21x10^{3}z^{3} + 1.12x10^{6}z^{2} + 4.34x10^{6}z + 11.45x10^{6}$$
 
+**Lazo Cerrado obtenido:**
+
+$$G_{o} = \frac{1}{z^{5} + 304z^{4} + 31.21x10^{3}z^{3} + 1.12x10^{6}z^{2} + 4.34x10^{6}z + 11.45x10^{6}}$$
+
+**Controlador discrtizado**
+
+$$C(z)= \frac{G_{o}(z)}{G(z)(1-G_{o}(z))}$$
 
 
