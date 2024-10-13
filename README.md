@@ -21,7 +21,7 @@ $$P_{5} = -2 - 2.73j$$
 
 $${\color{Red} IMAGEN}$$
    
-3. El diagrama de Bode de la figura contiene la respuesta de un sistema de red de atraso y con red de atraso. Mida el margen de fase del sistema que ya tiene la red de atraso. Inlcuya el procedimiento matemático para llegar a la respuesta.
+3. **(1 puntos)** El diagrama de Bode de la figura contiene la respuesta de un sistema de red de atraso y con red de atraso. Mida el margen de fase del sistema que ya tiene la red de atraso. Inlcuya el procedimiento matemático para llegar a la respuesta.
 
 $${\color{Red} IMAGEN}$$
 
@@ -32,6 +32,6 @@ $$(z + 100)(z + 100)(z + 100)(z + 2 - 2.73j)(z + 2 + 2.73j)$$
 $$(z^{2} + 200z + 10^{4})(z + 100)(z^{2} + 2z {\color{Red} + 2.73j} + 2z + 4  {\color{Blue} + 5.46j} {\color{Red} - 2.73jz} {\color{Blue} - 5.46} + 7.45)$$
 $$(z^{3} + 100z^{2} + 200z^{2} + 2x10^{4}z + 10^{6} + 10^{4}z)(z^{2} + 4z + 11.45)$$
 $$(z^{3} + 300z^{2} + 3x10^{4}z + 10^{6})(z^{2} + 4z + 11.45)$$
-$$z^{5} + 4z^{4} + 11.45z^{3} + 300z^{4} + 1.2x10^{3}z^{3} + 3.4x10^{3}z^{2} + 3x10^{4}z^{3} + 12x10^{4}z^{2} + 343.5x10^{3}z + 10^{6}z^{2} + 4x10^{6}z + 11.45x10^{6}$$
+$$z^{5} + {\color{Red} 4z^{4}} + {\color{Blue}11.45z^{3}} + {\color{Red} 300z^{4}} + {\color{Blue}1.2x10^{3}z^{3}} + 3.4x10^{3}z^{2} + {\color{Blue}3x10^{4}z^{3}} + 12x10^{4}z^{2} + 343.5x10^{3}z + 10^{6}z^{2} + 4x10^{6}z + 11.45x10^{6}$$
 
 
