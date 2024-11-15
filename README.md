@@ -19,11 +19,9 @@ $$P_{5} = -2 - 2,73j$$
 
 2. **(1 puntos)** Para el diagrama de Bode de la figura indique si el sistema es estable en lazo cerrado o no. Justifique su respuesta.
 
-$${\color{Red} IMAGEN}$$
    
 3. **(1 puntos)** El diagrama de Bode de la figura contiene la respuesta de un sistema de red de atraso y con red de atraso, Mida el margen de fase del sistema que ya tiene la red de atraso, Inlcuya el procedimiento matemático para llegar a la respuesta.
 
-$${\color{Red} IMAGEN}$$
 
 ## Solución
 1.
@@ -109,3 +107,17 @@ $$B_{2} = -3,04x10^{11}$$
 
 
 $$ C_{z} = \frac{7,}{}$$
+
+2. 
+Al trazar la línea que intersecta con -180°, se observa en el diagrama de frecuencia el margen de ganancia, que resulta ser positivo. Asimismo, al proyectar la línea sobre 0 dB en el diagrama de ganancia, se aprecia que el diagrama de fase es positivo. Esto permite concluir que el sistema es estable.
+
+
+3. 
+En el diagrama de ganancia, se proyecta el punto de corte en 0 dB, trazando la intersección con el margen de fase del sistema con retraso.
+$$Mp = -116 - (-180)$$
+$$Mp = 64$$
+
+
+
+
+
